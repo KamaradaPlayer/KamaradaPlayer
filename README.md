@@ -1,10 +1,8 @@
-<h1>KamaradaK</h1>
+<h1>Kasf</h1>
 
-Hi, I'm Kauã. I'm a game developer and programmer...
-Understand . .🇧🇷. .🇺🇸
+I'm Kauã, a high school student learning programing and design stuff...
 
-<p>learning...<p>
-.HTML
-.CSS
-.JS
-.C#
+Languages:
+- Portuguese 
+- English
+
